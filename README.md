@@ -1,2 +1,15 @@
-# java-lab2-variant15
-Java lab 2, variant 15: ski resort, inheritance and notifications.
+# Java: лабораторная работа 2
+
+Вариант 15 — горнолыжный курорт. Наследование, абстрактные классы, интерфейсы и Dependency Injection.
+
+## Запуск
+
+Нужен JDK 17 или новее.
+
+macOS/Linux: `bash run.sh`
+
+Windows: `run.bat`
+
+В IntelliJ IDEA откройте проект, отметьте src как Sources Root и запустите Main.
+
+Исходники находятся в src. Демонстрация: четыре заказа, общая выручка 41 220 рублей. Уведомления SMS и Email имитируются в консоли.
